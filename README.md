@@ -17,7 +17,7 @@
 ### 🌟 About Me
 Motivated Computer Science and Engineering undergraduate with a solid grounding in core software engineering principles, database architecture, and full-stack development. Driven by problem-solving, building reliable applications, and bridging hardware with software through modern web and IoT platforms.
 
-* 🎓 **Education:** B.E. in Computer Science and Engineering, Dr. N.G.P. Institute of Technology (2023 – 2027) | CGPA: 7.78/10
+* 🎓 **Education:** B.E. in Computer Science and Engineering, Dr. N.G.P. Institute of Technology (2023 – 2027) | CGPA: 7.87/10
 * 📍 **Location:** Coimbatore, Tamil Nadu, India
 * 💼 **Internship:** Software Development Intern at Accent Technosoft
 * 💡 **Interests:** Software Engineering, Web Development, Database Management Systems, IoT
